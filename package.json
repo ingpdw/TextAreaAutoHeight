@@ -1,6 +1,6 @@
 {
   "name": "textarea-auto-height",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically adjust textarea height",
   "main": "index.js",
   "scripts": {
