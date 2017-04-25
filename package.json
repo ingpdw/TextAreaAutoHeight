@@ -1,0 +1,21 @@
+{
+  "name": "textarea-auto-height",
+  "version": "1.0.0",
+  "description": "Automatically adjust textarea height",
+  "main": "index.js",
+  "scripts": {
+    "compile": "babel -d lib/ src/",
+    "prepublish": "npm run compile"
+  },
+  "author": {
+    "name": "ingpdw",
+    "email": "ingpdw@gmail.com"
+  },
+  "repository": "https://github.com/ingpdw/TextAreaAutoHeight",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.1"
+  }
+}
