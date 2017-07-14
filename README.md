@@ -25,6 +25,8 @@ let autoHeight = new TextAreaAutoHeight( jQuery( '#content' ), jQuery( '#parent'
 let autoHeight = new TextAreaAutoHeight( jQuery( '#content' ), jQuery( '#parent' ), 50, 1.5 /*lineHeight*/ );
 //jQuery( '#content' ).css( 'line-height' )
 
+let autoHeight = new TextAreaAutoHeight( jQuery( '#content' ), jQuery( '#parent' ), 50, 1.5, 460 /*maxHeight*/ );
+
 ```
 
 ## License
